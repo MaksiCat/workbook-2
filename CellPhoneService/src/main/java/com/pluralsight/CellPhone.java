@@ -15,22 +15,19 @@ public CellPhone() {
     this.owner = "";
 }
 public int getSerialNumber() {
-
-    return this.serialNumber;
+    return serialNumber;
 }
 public  String getModel() {
-    return this.model;
+    return model;
 }
 public String getCarrier () {
-    return this.carrier;
+    return carrier;
 }
 public String getPhoneNumber() {
-
-    return this.phoneNumber;
+    return phoneNumber;
 }
-public String getOwner () {
-
-    return this.owner;
+public String getOwner() {
+    return owner;
 }
 
 
